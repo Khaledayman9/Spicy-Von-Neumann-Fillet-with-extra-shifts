@@ -4,11 +4,11 @@ Simulating a fictional processor design and architecture using Java, by simulati
 # Technologies
 Project is created with:
 
-Java SE-15
-Eclipse IDE
+* Java SE-15
+* Eclipse IDE
 
 
 # Set up
 
-To run this project, just import the project as an existing project in Eclipse
+* To run this project, just import the project as an existing project in Eclipse
 
