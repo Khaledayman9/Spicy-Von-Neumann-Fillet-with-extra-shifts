@@ -19,7 +19,9 @@ Using Von Neumann Memory Architecture which is a digital computer architecture w
   – Hard-wired value “0” (cannot be overwritten by any instruction).
 * 1 Program Counter 
   – Name: PC
+  
   – A program counter is a register in a computer processor that contains the address (location) of the instruction being executed at the current time.
+  
   – As each instruction gets fetched, the program counter is incremented to point to the next instruction to be executed.
 
 # Instruction Set Architecture
