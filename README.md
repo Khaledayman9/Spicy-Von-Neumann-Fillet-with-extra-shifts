@@ -24,13 +24,16 @@ Using Von Neumann Memory Architecture which is a digital computer architecture w
 
 # Instruction Set Architecture
 * We have 3 format (R-Format, I-Format, J-Format)
-1- R-Format:
+* R-Format:
+
 ![R-Format](https://user-images.githubusercontent.com/105018459/173196144-5aed43ad-4abc-4d3b-a443-f80148c0922b.PNG)
 
-2- I-Format:
+* I-Format:
+
 ![I-Format](https://user-images.githubusercontent.com/105018459/173196165-3d0e95d0-244c-4acf-b3bd-2c78ed3fa9c0.PNG)
 
-3- J-Format:
+* J-Format:
+
 ![J-Format](https://user-images.githubusercontent.com/105018459/173196224-08534674-3640-4f1b-98d9-711fc638e6c2.PNG)
 
 
