@@ -10,7 +10,7 @@ Using Von Neumann Memory Architecture which is a digital computer architecture w
 * Addresses from 0 to 1023 contain the program instructions.
 • Addresses from 1024 to 2048 contain the data.
 
-# Regisers
+# Registers
 * Size: 32 bits
 * 31 General-Purpose Registers (GPRS)
   – Names: R1 to R31
