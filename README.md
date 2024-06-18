@@ -1,5 +1,5 @@
 # Spicy-Von-Neumann-Fillet-with-extra-shifts
-Simulating a fictional processor design and architecture using Java, 
+Simulating a fictional processor design and architecture using Java, by creating a Von Neumann Memory Architecture which is a digital computer architecture whose design is based on the concept of stored program computers where program data and instruction data are stored in the same memory.
 
 
 # Memory Architecture 
